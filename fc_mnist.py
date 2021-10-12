@@ -5,6 +5,8 @@ import numpy as np
 
 from utils.mnist_loader import load_data, load_batches
 
+# this is mine
+
 ###################### 激活函数和导数 ##############################
 def relu(z):
     """
